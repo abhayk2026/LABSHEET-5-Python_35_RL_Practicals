@@ -1,0 +1,7 @@
+numpy
+matplotlib
+gymnasium
+gymnasium[toy-text]
+gymnasium[classic-control]
+tensorflow
+scipy
